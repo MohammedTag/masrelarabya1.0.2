@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1017083261939",
+    "firebase_url": "https://masralarabia-e44fb.firebaseio.com",
+    "project_id": "masralarabia-e44fb",
+    "storage_bucket": "masralarabia-e44fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017083261939:android:ca0a75b00402bbcd",
+        "android_client_info": {
+          "package_name": "com.example.planet.masrelarabya102"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017083261939-6hjnirnv70tlp70kp8d976bso7ra9gqb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.planet.masrelarabya102",
+            "certificate_hash": "e7252798270582c7a0d8dee4f6bbe1cd71a97e31"
+          }
+        },
+        {
+          "client_id": "1017083261939-p24shpf859mqsh8bbuq8ql7lmcuj1p00.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB120HzzlP4qgkSTrEgtwmIj3QjoSODsyI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017083261939-p24shpf859mqsh8bbuq8ql7lmcuj1p00.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
